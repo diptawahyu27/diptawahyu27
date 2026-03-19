@@ -9,15 +9,28 @@
 
 ## 🧠 About Me
 
-Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan pembuatan sistem custom** untuk kebutuhan bisnis.
+I am a **Freelance Programmer & Automation Specialist** focused on building smart systems, automation solutions, and AI-powered tools 🚀
 
-💡 Saya membantu:
+I specialize in:
 
-* UMKM & bisnis kecil untuk digitalisasi
-* Pembuatan sistem otomatis (hemat waktu & biaya)
-* Integrasi API & bot untuk efisiensi kerja
+* ⚡ Automating repetitive tasks to save time and effort
+* 🔗 API integration to connect multiple platforms seamlessly
+* 🤖 AI tools for classification, prediction, and data processing
+* 🌐 Web applications from simple apps to scalable systems
 
-🏷️ Founder dari **DWProject**
+I believe technology should **simplify processes, boost efficiency, and deliver real impact** 💡
+That’s why every solution I build is designed not just to work—but to create value.
+
+With a strong problem-solving mindset, I deliver:
+
+* ⚡ Maximum efficiency
+* 📈 Scalable and adaptable systems
+* 🤖 Automation that saves time & reduces cost
+
+🏷️ Founder of **DWProject**
+
+🔥 *Build smart systems. Save time. Increase productivity.*
+
 
 ---
 
