@@ -105,12 +105,13 @@ With a strong problem-solving mindset, I deliver:
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Activity & Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diptawahyu27&theme=tokyo-night&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+DWProject;Building+Smart+Automation+Systems;AI+Tools+%26+Custom+Solutions;Let's+Build+Something+Powerful🔥" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diptawahyu27/diptawahyu27/output/github-contribution-grid-snake.svg" />
 </p>
+
