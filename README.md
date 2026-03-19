@@ -102,3 +102,31 @@ With a strong problem-solving mindset, I deliver:
 <p align="center">
   🔥 "Build system, not just code."
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptawahyu27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptawahyu27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptawahyu27&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=diptawahyu27&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diptawahyu27&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptawahyu27&theme=tokyonight" />
+</p>
+
