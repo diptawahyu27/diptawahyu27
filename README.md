@@ -25,42 +25,29 @@ Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan 
 
 ### 👨‍💻 Programming
 
-* 🐍 Python (Automation, Data Processing, AI dasar)
-* ⚡ Node.js (Automation Script & API Integration)
-* 🌐 HTML, CSS, JavaScript, PHP (Basic Fullstack)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,php,html,css" />
+</p>
 
 ### 🤖 AI & Automation
 
-* AI Classification & Prediction
-* Automation Tools & Bots
-* Prompt Engineering (Chatbot & AI System)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-### 🎨 Others
+### 🗄️ Database
 
-* Microsoft Office (Word, Excel, PowerPoint)
-* Adobe Photoshop & Canva (Design Menengah)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
----
+### 🎨 Design & Tools
 
-## 🚀 Featured Projects
-
-### 📦 Smart Delivery System (Dijkstra Algorithm)
-
-* Optimasi rute pengiriman otomatis
-* Integrasi Google Maps API
-* Perhitungan jarak real-time
-
-### 🤖 Automation Bot System
-
-* Auto task & scraping
-* Proxy & async support
-* Efisiensi kerja tinggi
-
-### 🛒 UMKM Web Dashboard
-
-* Manajemen pesanan & customer
-* Tracking pengiriman
-* Dashboard interaktif
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
 
 ---
 
