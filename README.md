@@ -63,7 +63,7 @@ Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan 
 ## 📫 Contact & Hire Me
 
 * 💬 WhatsApp: 08xxxxxxxxxx
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 📧 Email: [diptawahyu002.com](mailto:diptawahyu002@email.com)
 * 🧑‍💻 GitHub: https://github.com/diptawahyu27
 
 🚀 Open for freelance & collaboration!
