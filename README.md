@@ -44,7 +44,7 @@ Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan 
 ### 🎨 Design & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
@@ -63,7 +63,7 @@ Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan 
 ## 📫 Contact & Hire Me
 
 * 💬 WhatsApp: 08xxxxxxxxxx
-* 📧 Email: [diptawahyu002.com](mailto:diptawahyu002@email.com)
+* 📧 Email: [diptawahyu002@gmail.com](mailto:diptawahyu002@gmail.com)
 * 🧑‍💻 GitHub: https://github.com/diptawahyu27
 
 🚀 Open for freelance & collaboration!
