@@ -5,6 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+Expert;AI+Solution+Builder;Web+Developer;Open+For+Freelance🔥" />
 </p>
 
+<p align="center">
+  <a href="mailto:diptawahyu002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/628xxxxxxxxxx">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
