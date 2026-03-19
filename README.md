@@ -1,49 +1,66 @@
 <h1 align="center">Hi 👋, I'm Dipta Wahyu</h1>
-<h3 align="center">💻 Freelance Programmer | Web Developer | Problem Solver</h3>
+<h3 align="center">🚀 Freelance Programmer | Automation Specialist | Founder of DWProject</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Freelance+Web+Developer;Build+Custom+System;Automation+Specialist;Open+For+Project🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+Expert;AI+Solution+Builder;Web+Developer;Open+For+Freelance🔥" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-* 🚀 Focus on Web Development & Automation
-* 🔧 Building custom systems for real business (UMKM & more)
-* 📦 Experienced in delivery route optimization (Dijkstra Algorithm)
-* 💼 Available for freelance work
-* ☕ Ngoding + kopi = solusi
+Saya adalah seorang programmer freelance yang fokus pada **otomatisasi, AI, dan pembuatan sistem custom** untuk kebutuhan bisnis.
+
+💡 Saya membantu:
+
+* UMKM & bisnis kecil untuk digitalisasi
+* Pembuatan sistem otomatis (hemat waktu & biaya)
+* Integrasi API & bot untuk efisiensi kerja
+
+🏷️ Founder dari **DWProject**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,python,mysql,html,css" />
-</p>
+### 👨‍💻 Programming
+
+* 🐍 Python (Automation, Data Processing, AI dasar)
+* ⚡ Node.js (Automation Script & API Integration)
+* 🌐 HTML, CSS, JavaScript, PHP (Basic Fullstack)
+
+### 🤖 AI & Automation
+
+* AI Classification & Prediction
+* Automation Tools & Bots
+* Prompt Engineering (Chatbot & AI System)
+
+### 🎨 Others
+
+* Microsoft Office (Word, Excel, PowerPoint)
+* Adobe Photoshop & Canva (Design Menengah)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Sistem Pengiriman Tahu (Dijkstra Algorithm)
+### 📦 Smart Delivery System (Dijkstra Algorithm)
 
 * Optimasi rute pengiriman otomatis
 * Integrasi Google Maps API
 * Perhitungan jarak real-time
 
-### 🛒 Web Dashboard UMKM
+### 🤖 Automation Bot System
+
+* Auto task & scraping
+* Proxy & async support
+* Efisiensi kerja tinggi
+
+### 🛒 UMKM Web Dashboard
 
 * Manajemen pesanan & customer
 * Tracking pengiriman
 * Dashboard interaktif
-
-### 🤖 Automation Bot (Python)
-
-* Auto task & scraping
-* Support proxy & async
-* Efisiensi kerja tinggi
 
 ---
 
@@ -56,14 +73,16 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact & Hire Me
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
 * 💬 WhatsApp: 08xxxxxxxxxx
-* 🌐 Portfolio: coming soon
+* 📧 Email: [your@email.com](mailto:your@email.com)
+* 🧑‍💻 GitHub: https://github.com/diptawahyu27
+
+🚀 Open for freelance & collaboration!
 
 ---
 
 <p align="center">
-  ⭐ "Code is not just code, it's a solution."
+  🔥 "Build system, not just code."
 </p>
