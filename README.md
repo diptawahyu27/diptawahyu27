@@ -83,8 +83,8 @@ With a strong problem-solving mindset, I deliver:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptawahyu27&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptawahyu27&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diptawahyu27&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptawahyu27&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -102,16 +102,3 @@ With a strong problem-solving mindset, I deliver:
 <p align="center">
   🔥 "Build system, not just code."
 </p>
-
----
-
-## 🚀 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptawahyu27&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diptawahyu27/diptawahyu27/output/github-contribution-grid-snake.svg" />
-</p>
-
