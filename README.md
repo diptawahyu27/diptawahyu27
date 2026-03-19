@@ -105,10 +105,15 @@ With a strong problem-solving mindset, I deliver:
 
 ---
 
-## 🚀 Activity & Animation
+## 🚀 GitHub Performance
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+DWProject;Building+Smart+Automation+Systems;AI+Tools+%26+Custom+Solutions;Let's+Build+Something+Powerful🔥" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptawahyu27&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diptawahyu27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptawahyu27&theme=tokyonight" />
 </p>
 
 <p align="center">
