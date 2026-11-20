@@ -99,7 +99,7 @@ With a strong problem-solving mindset, I deliver:
 
 * 💬 WhatsApp: 08xxxxxxxxxx
 * 📧 Email: [diptawahyu002@gmail.com](mailto:diptawahyu002@gmail.com)
-* 🧑‍💻 GitHub: https://github.com/diptawahyu27
+* 🧑‍💻 GitHub: https://github.com/dwproject27
 
 🚀 Open for freelance & collaboration!
 
